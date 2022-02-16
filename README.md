@@ -17,7 +17,7 @@
     <img align="center" alt="aftereffects" src="https://aleen42.github.io/badges/src/after_effects.svg" />
 </div></br>
 
-Apaixonado por tecnologia, em busca de um oportunidade como desenvolvedor júnior.
+Apaixonado por tecnologia, em busca de uma oportunidade como desenvolvedor júnior.
 
 ## Contato:
 ![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) danieltorres2706@hotmail.com
