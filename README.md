@@ -20,5 +20,6 @@
 Apaixonado por tecnologia, em busca de um oportunidade como desenvolvedor júnior.
 
 ## Contato:
-[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](danieltorres2706@hotmail.com)
+![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) danieltorres2706@hotmail.com
+
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561991848154&text=Whatsapp%20Daniel%20Torres)
