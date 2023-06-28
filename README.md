@@ -14,11 +14,21 @@ Costumo dizer que “quem faz o que gosta vive de férias”. Por isso estou sem
 ## Contato:
 <div style="display: inline_block">
 
-  [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:danieltorres2706@hotmail.com)
-  [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561991848154&text=Whatsapp%20Daniel%20Torres)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-torres-0851581a0/)
+  <a href="mailto:danieltorres2706@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook">
+  </a>
+  
+  <a href="https://api.whatsapp.com/send?phone=5561991848154&text=Whatsapp%20Daniel%20Torres" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/daniel-torres-0851581a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
 
 </div>
 
 ## Portfólio:
- [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devdanieltorres.github.io/)
+<a href="https://devdanieltorres.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio">
+</a>
