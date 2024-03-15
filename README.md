@@ -2,6 +2,8 @@
 
 Sou uma pessoa dedicada e estou sempre querendo aprender algo novo que me ajude a ser um desenvolvedor cada vez melhor. Estou trabalhando na área de tecnologia desde 2020, adquirindo diversos tipos de experiência na área, já atuei tanto no back-end como no frontend, utilizando PHP, Codeigniter, Wordpress, HTML/CSS3, MySql, sql server, bootstrap, azure devops, API's, JavaScript, Python, Selenium e Pandas.
 
+Obs: meu github não tem muitos projetos pois a maioria dos meus trabalhos foram empresariais e são códigos privados!
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
