@@ -1,6 +1,32 @@
 ## Olá! Eu sou Daniel Torres✋
 
-Sou uma pessoa dedicada e estou sempre querendo aprender algo novo que me ajude a ser um desenvolvedor cada vez melhor. Estou trabalhando na área de tecnologia desde 2020, adquirindo diversos tipos de experiência na área, já atuei tanto no back-end como no frontend, utilizando PHP, Codeigniter, Wordpress, HTML/CSS3, MySql, sql server, bootstrap, azure devops, API's, JavaScript, Python, Selenium e Pandas.
+Sou uma pessoa dedicada e estou sempre querendo aprender algo novo que me ajude a ser um desenvolvedor cada vez melhor. Estou trabalhando na área de tecnologia desde 2020, adquirindo diversos tipos de experiência na área, já atuei tanto no back-end como no frontend, utilizando as tecnologias abaixo.
+
+## Tecnologias que domino:
+
+### Front-end:
+- HTML/CSS3
+- Bootstrap
+- JavaScript
+
+### Back-end:
+- PHP
+- Codeigniter
+- Wordpress
+- Python
+
+### Bancos de dados:
+- MySQL
+- SQL Server
+
+### Ferramentas e Frameworks:
+- Azure DevOps
+- APIs
+
+### Automação e Análise de Dados:
+- Selenium
+- Pandas
+
 
 Obs: meu github não tem muitos projetos pois a maioria dos meus trabalhos foram empresariais e são códigos privados!
 
