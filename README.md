@@ -1,11 +1,8 @@
 ## Olá! Eu sou Daniel Torres✋
 
-Costumo dizer que “quem faz o que gosta vive de férias”. Por isso estou sempre querendo aprender algo novo que me ajude a ser um desenvolvedor cada vez melhor. Estou com 3 anos de experiência e já atuei tanto no back-end como no frontend, utilizando PHP, Wordpress, HTML/CSS3, MySql, JavaScript, Python, Selenium, Pandas e atualmente estou estudando Javascript, TypeScript, Node, Express, React, hooks, Redux, Design Patterns.
+Sou uma pessoa dedicada e estou sempre querendo aprender algo novo que me ajude a ser um desenvolvedor cada vez melhor. Estou trabalhando na área de tecnologia desde 2020, adquirindo diversos tipos de experiência na área, já atuei tanto no back-end como no frontend, utilizando PHP, Codeigniter, Wordpress, HTML/CSS3, MySql, sql server, bootstrap, azure devops, API's, JavaScript, Python, Selenium e Pandas.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
