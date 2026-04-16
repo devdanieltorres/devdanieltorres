@@ -1,49 +1,86 @@
-## Olá! Eu sou Daniel Torres✋
+# Olá, eu sou Daniel Torres
 
-Sou uma pessoa dedicada e estou sempre querendo aprender algo novo que me ajude a ser um desenvolvedor cada vez melhor. Estou trabalhando na área de tecnologia desde 2020, adquirindo diversos tipos de experiência na área, já atuei tanto no back-end como no frontend, utilizando as tecnologias abaixo.
+Desenvolvedor Full-Stack com 4+ anos de experiência em sistemas web corporativos, com foco em back-end, modernização de legados e soluções para RH e Operações.
 
-## Tecnologias que domino:
+Atuo principalmente com `PHP`, `CodeIgniter`, `MySQL`, `APIs REST` e `Azure DevOps`, entregando funcionalidades, integrações e melhorias que priorizam escalabilidade, disponibilidade de sistema, seguran?a de dados e redução de custos operacionais.
 
-### Front-end:
-- HTML/CSS3
-- Bootstrap
-- JavaScript
+## Sobre mim
 
-### Back-end:
+Sou um desenvolvedor com experiência em desenvolvimento e manutenção de sistemas desde 2021, com forte atuação em ambientes corporativos e produtos com regras de negócio complexas.
+
+Tenho perfil analítico, colaborativo e orientado a resultados. Além do desenvolvimento full-stack, também atuo na evolção de sistemas legados, refatoração de código, otimização de consultas, sustentação de operação e implementação de novas funcionalidades com foco em qualidade e continuidade do negócio.
+
+Também utilizo `Cursor` e `Claude` como apoio no desenvolvimento para acelerar análise, refatoração e entrega com critério técnico.
+
+## Stack principal
+
+### Back-end
 - PHP
-- Codeigniter
-- Wordpress
+- CodeIgniter
+- WordPress
 - Python
 
-### Bancos de dados:
+### Front-end
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+
+### Banco de dados
 - MySQL
 - SQL Server
 
-### Ferramentas e Frameworks:
+### Ferramentas e entrega
+- Git
+- GitHub
 - Azure DevOps
-- APIs
+- CI/CD
+- APIs REST
 
-### Automação e Análise de Dados:
+### Automação e produtividade
 - Selenium
 - Pandas
+- Cursor AI
+- Claude Code
 
+## Áreas de atuação
 
-Obs: meu github não tem muitos projetos pois a maioria dos meus trabalhos foram empresariais e são códigos privados!
+- Sistemas corporativos para RH e Operações
+- Integrações via APIs REST
+- Sustentação e evolução de sistemas legados em PHP
+- Otimização de consultas e estruturas de dados em MySQL
+- Dashboards e módulos analíticos para apoio e decisão
+- Entregas com versionamento, rastreabilidade e deploy via Azure DevOps
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div>
+## Destaques do portfólio
 
-## Contato:
-<div style="display: inline_block">
+- Plataforma de monitoramento psicossocial com analytics de risco, alertas automáticos e execução de plano de ação
+- Central de atendimentos com abertura de solicitações, acompanhamento por chat e painel operacional
+- Módulo de gestão de atestados com fluxo colaborativo, análise e rastreabilidade
+- Painel de headcount para comparativo planejado vs. realizado e suporte e decisão
+- Módulo de anotações do colaborador com histórico auditável, anexos e governança
 
-  [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:danieltorres2706@hotmail.com)
-  [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561991848154&text=Whatsapp%20Daniel%20Torres)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-torres-0851581a0/)
+## Observação importante
 
-</div>
+Grande parte da minha experiência foi construída em projetos empresariais privados. Por isso, meu GitHub não representa 100% do volume e da complexidade das soluções em que já atuei.
 
-## Portfólio:
- [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devdanieltorres.github.io/)
+Este perfil complementa meu portfólio profissional e reúne materiais públicos, estudos e projetos demonstrativos.
+
+## Contato
+
+- Portfólio: [devdanieltorres.github.io](https://devdanieltorres.github.io/)
+- LinkedIn: [daniel-torres-0851581a0](https://www.linkedin.com/in/daniel-torres-0851581a0/)
+- E-mail: [Danieltorres2706@hotmail.com](mailto:Danieltorres2706@hotmail.com)
+- WhatsApp: [Entrar em contato](https://api.whatsapp.com/send?phone=5561991848154&text=Whatsapp%20Daniel%20Torres)
+
+## Tecnologias
+
+<p align="left">
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+</p>
