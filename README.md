@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Daniel Torres
+👋 Olá, eu sou Daniel Torres
 
 Sou Desenvolvedor Full Stack com experiência em sistemas web corporativos, atuando principalmente com back-end, evolução de sistemas legados e integrações.
 
